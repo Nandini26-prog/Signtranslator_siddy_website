@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-outfit: Outfit;
+
+  /* font sizes */
+  --font-size-8xl: 27px;
+  --font-size-sm: 14px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-dimgray: #5b5b5b;
+
+  /* Gaps */
+  --gap-14xl: 33px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-11xl: 30px;
+  --padding-sm: 14px;
+}
